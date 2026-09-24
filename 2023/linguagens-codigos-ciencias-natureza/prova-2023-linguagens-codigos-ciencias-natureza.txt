@@ -1,0 +1,92 @@
+48 questões
+14 erros
+34 acertos
+NOTA desta prova: 34/48 = 70,83/100
+NOTA final 2023: 67/90 = 74,44/100
+
+
+1. (C)
+2. (D)
+3. (C)X - dúvida
+4. (C)
+5. (A)
+6. (D) - dúvida
+7. (E)
+8. (E)
+9. (D)
+10. (B)
+11. (A)
+12. (C)
+13. (C)X
+14. (B)
+15. (D)
+16. (A) - dúvida
+17. (E)
+18. (C)
+19. (B)
+20. (A)
+
+TEMPO: até agora levei entre 50min a 1h
+
+21. (E)
+22. (D)
+23. (C)
+24. (B)
+25. (E)
+26. (A) - dúvida
+27. (D)X - dúvida
+28. (C)X - dúvida
+29. (C) - dúvida
+30. (C)X - dúvida
+31. (E)X - dúvida
+32. (B)X
+
+TEMPO: levei mais 40min
+
+33. (A)X
+34. (E)
+35. (C)
+36. (B)X
+37. (D)X - dúvida
+38. (D) - dúvida
+39. (B)X
+40. (C)
+41. (C) - dúvida
+42. (D)
+43. (C)X - dúvida
+44. (E)X
+45. (B) - dúvida
+46. (B)X - dúvida
+47. (A) - dúvida
+48. (C) - dúvida
+
+
+RASCUNHO:
+
+33.
+  20b/s * 1h =
+= 20b/s * 60min =
+= 20b/s * 3600s =
+= 72.000s
+
+35.
+  N = kg m/s²
+  10.000 kg*m/s² / 500kg - 3,7m/s² =
+= 20m/s² - 3,7m/s² =
+= 16,3m/s²
+
+39.
+  C = P * t
+  75kWh = 250kW * t =
+= 4500kWmin / 250kW = t =
+= t = 18min
+
+42.
+  12 * 10^(-3)
+  4 * 10^(-3)
+
+44.
+  135.000J = m * 4,2(J * g^[-1] * C^[-1]) * 50C =
+= 135.000J = m * 210J*g^(-1) =
+= m = 642,9g
+  2(CO2) + 3(H2O) => C2H6O + 3(O2)   +1350kJ
